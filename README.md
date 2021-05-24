@@ -14,6 +14,6 @@ Após isso, digite isso para executar o jogo:
 ```sh
 java -Xmx1024M -Xms1024M -jar game.jar nogui
 ```
-
+> É necessario a versão `16.0.1` do java.
 E pronto, voce ja pode jogar!!
 Enquanto eu vou evoluindo na apredizagem, vou atualizar o jogo.
